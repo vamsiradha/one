@@ -28,12 +28,12 @@
 	<distributionManagement>
 		 <snapshotRepository>
 		    <id>nexusRepo</id>
-		    <url>/http://34.208.218.12:8081/repository/sample-snapshots</url>
+		    <url>http://34.208.218.12:8081/repository/sample-snapshots</url>
 		 </snapshotRepository>
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://13.60.162.237:8081/repository/vamsiradharepo/</url>
+		    <url>http://16.171.173.9:8081/repository/vamsipolaki/</url>
 		</repository>
   	</distributionManagement>
 	
